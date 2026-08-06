@@ -1,1 +1,0 @@
-# AI-Hand-Gesture-Controller
